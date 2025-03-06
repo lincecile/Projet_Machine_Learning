@@ -1,6 +1,10 @@
 difference info dataset et feature, 3.3
 normaliser data? 4.2
+A-t-on besoin de normaliser les datas ? Toutes les colonnes ou uniquement celles numériques ? 
+Est ce vraiment nécessaire alors que la fourchette de donées est faible ?
 reequilibrage? 4.4
+Gestion des outliers : contrainte 25-75 bonne contraite ? 
+
 
 TODO
 
