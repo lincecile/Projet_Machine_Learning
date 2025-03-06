@@ -1,9 +1,13 @@
 difference info dataset et feature, 3.3
 normaliser data? 4.2
+A-t-on besoin de normaliser les datas ? Toutes les colonnes ou uniquement celles numériques ? 
+Est ce vraiment nécessaire alors que la fourchette de donées est faible ?
 reequilibrage? 4.4
 dans la creation du benchmark, est ce qu'il faut spliter les données et chosiir el meilleur set de données sachant qu'on utilise un modele ensembliste (random forest) en tant que benchmark du challenge
 
 faaut optimiser les hyperparamètres du benchmark? fait dans l'exemple
+Gestion des outliers : contrainte 25-75 bonne contraite ? 
+
 
 TODO
 
