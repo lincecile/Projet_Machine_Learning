@@ -1,6 +1,9 @@
 difference info dataset et feature, 3.3
 normaliser data? 4.2
 reequilibrage? 4.4
+dans la creation du benchmark, est ce qu'il faut spliter les données et chosiir el meilleur set de données sachant qu'on utilise un modele ensembliste (random forest) en tant que benchmark du challenge
+
+faaut optimiser les hyperparamètres du benchmark? fait dans l'exemple
 
 TODO
 
